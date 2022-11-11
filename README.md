@@ -9,7 +9,7 @@ MapAmor is an application for iOS that contains location with map view using Map
 
 # Work Plan
 
-the following are some of the features of the FoodPin application made using Swift, UIKit with MVVM, Storyboard, MapKit:
+the following are some of the features of the MapAmor application made using Swift, UIKit with MVVM, Storyboard, MapKit:
  
 - Show Map using MapKit
 - Annotation for location
